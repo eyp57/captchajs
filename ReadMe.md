@@ -19,4 +19,4 @@ fs.writeFileSync('./image.png', buffer); // Writes the buffer to the PNG file
 
 ### More examples in github page:
 
-[Github](https://github.com/eyp57/captchajs) - [NPMJS](https://npmjs.com/package/@zrooter/captchajs)
+[Github](https://github.com/eyp57/captchajs) - [NPMJS](https://npmjs.com/package/@eyp57tr/captchajs)
