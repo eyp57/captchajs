@@ -1,0 +1,22 @@
+{
+  "name": "@eyp57tr/captchajs",
+  "version": "1.0.0",
+  "description": "An Captcha module for Js",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "url": "https://github.com/eyp57/captchajs",
+    "type": "github"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "fs": "^0.0.1-security"
+  }
+}
