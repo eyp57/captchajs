@@ -1,4 +1,4 @@
-const {Captcha} = require("@eyp57tr/captchajs");
+const Captcha = require("@eyp57tr/captchajs");
 const captcha = new Captcha({
     string: "ABC"
 });

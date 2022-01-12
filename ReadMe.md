@@ -1,7 +1,7 @@
 # Examples for CaptchaJS
 
 ```javascript
-const {Captcha} = require("@eyp57/aptchajs");
+const Captcha = require("@eyp57/aptchajs");
 const fs = require("fs");
 const captcha = new Captcha({
     string: "ThAtS a CaPtChA vAluE", // If not set default is random

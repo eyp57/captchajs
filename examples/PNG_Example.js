@@ -1,4 +1,4 @@
-const {Captcha} = require("@eyp57tr/captchajs");
+const Captcha = require("@eyp57tr/captchajs");
 const fs = require("fs");
 const captcha = new Captcha({
     textColor: "GREEN",

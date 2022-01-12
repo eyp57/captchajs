@@ -1,4 +1,4 @@
-const {Captcha} = require("@eyp57tr/captchajs");
+const Captcha = require("@eyp57tr/captchajs");
 const { MessageAttachment } = require("discord.js");
 const captcha = new Captcha({
     textColor: "GREEN",
